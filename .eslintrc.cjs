@@ -6,7 +6,7 @@ module.exports = {
   extends: [
     'plugin:react/recommended',
     'standard',
-    'eslint-config-prettier',
+    'prettier',
     'plugin:react/jsx-runtime',
     'plugin:react-hooks/recommended'
   ],
