@@ -1,5 +1,4 @@
-import { useMemo } from 'react';
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { useCounter } from '../Hooks';
 
 const heavyStuff = (iterationNumber = 100) => {
